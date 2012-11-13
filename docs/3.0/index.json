@@ -1,0 +1,38 @@
+{
+    "title": "타이타늄 가이드 3.0",
+    "langTitle": "타이타늄 가이드 3.0 한글판",
+    "description": "목차",
+    "sections": [
+        {
+            "title": "Quick Start",
+            "dir": "quick-start",
+            "articles": []
+        },
+        {
+            "title": "설치가이드",
+            "dir": "installation",
+            "articles": [
+            ]
+        },
+        {
+            "title": "알로이(Alloy) 프레임워크",
+            "dir": "alloy-framework",
+            "articles": [
+            	"1.index",
+            	"2.alloy-quick-start"
+            ]
+        },
+        {
+            "title": "타이타늄 모바일",
+            "dir": "titanium-mobile",
+            "articles": [
+            ]
+        },
+        {
+            "title": "타이타늄 스튜디오",
+            "dir": "titanium-studio",
+            "articles": [
+            ]
+        }
+    ]
+}
