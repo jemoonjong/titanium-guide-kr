@@ -1,0 +1,6 @@
+safe : true
+source: ./doc
+destination: ./docs
+server: true
+lsi: false
+pygments: true
