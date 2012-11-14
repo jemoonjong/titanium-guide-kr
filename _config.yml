@@ -1,6 +1,0 @@
-safe : true
-source: ./doc
-destination: ./docs
-server: true
-pygments: true
-markdown: rdiscount

@@ -1,30 +1,21 @@
 {
-    "title": "타이타늄 가이드 2.1",
-    "langTitle": "타이타늄 가이드 3.0 한글판",
-    "description": "목차",
-    "sections": [
+    "title": "타이타늄 가이드 2.1 한글판",
+    "description": "Titanium Guide 2.1 for Korean : 타이타늄 공식 가이드 한글 번역 프로젝트",
+    "index": [
         {
-            "title": "Quick Start",
-            "dir": "quick-start",
-            "articles": []
+            "title" : "Quick_Start",
+            "editor": []
         },
         {
-            "title": "설치가이드",
-            "dir": "installation",
-            "articles": [
-            ]
-        },
-        {
-            "title": "타이타늄 모바일",
-            "dir": "titanium-mobile",
-            "articles": [
-            ]
-        },
-        {
-            "title": "타이타늄 스튜디오",
-            "dir": "titanium-studio",
-            "articles": [
-            ]
+        	"title" : "Installation_and_Configuration",
+        	"editor": []
+        	"sub" : [
+        		{
+        			"title" : "Setting_up_Titanium_Studio"
+        			"editor": []
+        		}
+        	]
         }
+        
     ]
 }
