@@ -1,5 +1,5 @@
 ## 타이타늄 공식 가이드 한국어판
-**Titanium Guide For Korean** 프로젝트는 타이타늄 공식 가이드를 한글로 번역하는 오픈 프로젝트입니다. 누구든지 이 프로젝트에 기여하실수 있고, 다양한 방법으로 참여 하실수 있습니다. 자세한 내용은 차후 다시 공지하겠습니다. 
+**[Titanium Guide For Korean][0]** 프로젝트는 타이타늄 공식 가이드를 한글로 번역하는 오픈 프로젝트입니다. 누구든지 이 프로젝트에 기여하실수 있고, 다양한 방법으로 참여 하실수 있습니다. 자세한 내용은 차후 다시 공지하겠습니다. 
 
 ### 번역에 참여하는 방법
 1. [번역현황판][5]을 보고 아직 번역되지 않은 문서가 있는지 확인한다.
@@ -29,7 +29,7 @@
 ### 기타 문의
 궁금한 사항은 titans_kr@googlegroups.com 으로 메일 주세요
 
-
+[0]: http://miconblog.github.com/titanium-guide-kr
 [1]: http://docs.appcelerator.com/titanium/2.1/index.html#!/guide
 [2]: http://docs.appcelerator.com/titanium/3.0/#!/guide
 [3]: http://miconblog.github.com/titanium-guide-kr/docs/2.1/guide
