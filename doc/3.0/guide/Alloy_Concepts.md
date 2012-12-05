@@ -174,6 +174,3 @@ Backbone.js와 Underscore.js, 동기식 어댑터와 기본 컨트롤러 클래�
 [21]: http://docs.appcelerator.com/titanium/3.0/#!/guide/Alloy_Widgets-section-35621514_AlloyWidgets-CreatingWidgets
 [22]: http://docs.appcelerator.com/titanium/3.0/#!/api
 [23]: https://github.com/appcelerator/alloy/tree/master/widgets
-[24]: 
-
-
