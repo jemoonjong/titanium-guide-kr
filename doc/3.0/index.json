@@ -1,10 +1,68 @@
 {
-    'title': '타이타늄 가이드 3.0 한글판',
-    'description': 'Titanium Guide 3.0 for Korean : 타이타늄 공식 가이드 한글 번역 프로젝트',
-    'index': [
+    "title": "타이타늄 가이드 3.0 한글판",
+    "description": "Titanium Guide 3.0 for Korean : 타이타늄 공식 가이드 한글 번역 프로젝트",
+    "index": [
         {
-            'title' : 'Quick_Start',
-            'editor': ['miconblog']
-        }        
+            "title" : "Quick Start",
+            "editor": []
+        },
+        {
+        	"title" : "Installation and Configuration",
+        	"editor" : []
+        },
+        {
+        	"title" : "Alloy Framework",
+        	"editor" : ["miconblog"],
+        	"sub" : [
+        		{
+        			"title" : "Alloy Quick Start",
+        			"editor": ["miconblog"]
+        		},
+        		{
+        			"title" : "Alloy Concepts",
+        			"editor": ["miconblog"]
+        		},
+        		{
+        			"title" : "Alloy Views",
+        			"editor": []
+        		}
+        	]
+        },
+        {
+        	"title" : "Titanium Mobile",
+        	"editor" : [],
+        	"sub" : [
+        		{
+        			"title" : "Extending Titanium Mobile",
+        			"editor": ["miconblog"],
+        			"sub" : [
+        				{
+		        			"title" : "Titanium Module Concepts",
+		        			"editor": ["miconblog"]
+		        		},
+		        		{
+		        			"title" : "Android Module Development Guide",
+		        			"editor": []
+		        		},
+		        		{
+		        			"title" : "iOS Module Development Guide",
+		        			"editor": ["miconblog"]
+		        		},
+		        		{
+		        			"title" : "Android Module Porting Guide for 1.8.0.1",
+		        			"editor": []
+		        		},
+		        		{
+		        			"title" : "Titanium Mobile Module API",
+		        			"editor": []
+		        		}
+        			]
+        		}
+        	]
+        },
+        {
+        	"title" : "Titanium Studio",
+        	"editor" : []
+        }
     ]
 }

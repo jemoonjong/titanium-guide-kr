@@ -1,18 +1,18 @@
 {
-    'title': '타이타늄 가이드 2.1 한글판',
-    'description': 'Titanium Guide 2.1 for Korean : 타이타늄 공식 가이드 한글 번역 프로젝트',
-    'index': [
+    "title": "타이타늄 가이드 2.1 한글판",
+    "description": "Titanium Guide 2.1 for Korean : 열린 번역 프로젝트",
+    "index": [
         {
-            'title' : 'Quick_Start',
-            'editor': ['miconblog']
+            "title" : "Quick_Start",
+            "editor": ["miconblog"]
         },
         {
-        	'title' : 'Installation_and_Configuration',
-        	'editor': [],
-        	'sub' : [
+        	"title" : "Installation_and_Configuration",
+        	"editor": [],
+        	"sub" : [
         		{
-        			'title' : 'Setting_up_Titanium_Studio',
-        			'editor': []
+        			"title" : "Setting_up_Titanium_Studio",
+        			"editor": []
         		}
         	]
         }
