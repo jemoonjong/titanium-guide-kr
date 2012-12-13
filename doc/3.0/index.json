@@ -3,57 +3,57 @@
     "description": "Titanium Guide 3.0 for Korean : 타이타늄 공식 가이드 한글 번역 프로젝트",
     "index": [
         {
-            "title" : "Quick Start",
+            "title" : "Quick_Start",
             "editor": []
         },
         {
-        	"title" : "Installation and Configuration",
+        	"title" : "Installation_and_Configuration",
         	"editor" : []
         },
         {
-        	"title" : "Alloy Framework",
+        	"title" : "Alloy_Framework",
         	"editor" : ["miconblog"],
         	"sub" : [
         		{
-        			"title" : "Alloy Quick Start",
+        			"title" : "Alloy_Quick_Start",
         			"editor": ["miconblog"]
         		},
         		{
-        			"title" : "Alloy Concepts",
+        			"title" : "Alloy_Concepts",
         			"editor": ["miconblog"]
         		},
         		{
-        			"title" : "Alloy Views",
+        			"title" : "Alloy_Views",
         			"editor": []
         		}
         	]
         },
         {
-        	"title" : "Titanium Mobile",
+        	"title" : "Titanium_Mobile",
         	"editor" : [],
         	"sub" : [
         		{
-        			"title" : "Extending Titanium Mobile",
+        			"title" : "Extending_Titanium_Mobile",
         			"editor": ["miconblog"],
         			"sub" : [
         				{
-		        			"title" : "Titanium Module Concepts",
+		        			"title" : "Titanium_Module_Concepts",
 		        			"editor": ["miconblog"]
 		        		},
 		        		{
-		        			"title" : "Android Module Development Guide",
+		        			"title" : "Android_Module_Development_Guide",
 		        			"editor": []
 		        		},
 		        		{
-		        			"title" : "iOS Module Development Guide",
+		        			"title" : "iOS_Module_Development_Guide",
 		        			"editor": ["miconblog"]
 		        		},
 		        		{
-		        			"title" : "Android Module Porting Guide for 1.8.0.1",
+		        			"title" : "Android_Module_Porting_Guide_for_1.8.0.1",
 		        			"editor": []
 		        		},
 		        		{
-		        			"title" : "Titanium Mobile Module API",
+		        			"title" : "Titanium_Mobile_Module_API",
 		        			"editor": []
 		        		}
         			]
@@ -61,7 +61,7 @@
         	]
         },
         {
-        	"title" : "Titanium Studio",
+        	"title" : "Titanium_Studio",
         	"editor" : []
         }
     ]
