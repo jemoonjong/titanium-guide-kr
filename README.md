@@ -21,7 +21,14 @@
 * [타이타늄 3.0 한글 가이드][4]
 
 ### 도움주신 분들
-추후 업데이트 예정
+* 번역
+ - [손병대][miconblog]
+
+
+* 빌드 
+ - [손병대][miconblog]
+
+[miconblog]: https://github.com/miconblog
 
 ### 라이센스
 추후 업데이트 예정
@@ -32,6 +39,6 @@
 [0]: http://miconblog.github.com/titanium-guide-kr
 [1]: http://docs.appcelerator.com/titanium/2.1/index.html#!/guide
 [2]: http://docs.appcelerator.com/titanium/3.0/#!/guide
-[3]: http://miconblog.github.com/titanium-guide-kr/docs/2.1/guide
-[4]: http://miconblog.github.com/titanium-guide-kr/docs/3.0/guide
+[3]: http://miconblog.github.com/titanium-guide-kr/site/2.1/guide
+[4]: http://miconblog.github.com/titanium-guide-kr/site/3.0/guide
 [5]: https://github.com/miconblog/titanium-guide-kr/wiki/%EB%B2%88%EC%97%AD-%ED%98%84%ED%99%A9%ED%8C%90

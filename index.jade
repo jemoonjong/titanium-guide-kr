@@ -1,0 +1,37 @@
+doctype 5
+html(lang='ko')
+  head
+    title=title
+    meta(charset='utf-8')
+    meta(name='description', content=description)
+    link(rel='stylesheet', href=prefix +'/stylesheets/stylesheet.css', media='screen')
+  body
+  <!-- HEADER -->
+  div#header_wrap.outer
+    header.inner
+      a#forkme_banner(href="https://github.com/miconblog/titanium-guide-kr) View on GitHub
+      h1#project_title=title
+      h2#project_tagline=description
+   
+  div#main_content_wrap.outer
+    section#main_content.inner
+      ul
+        each item1 in index
+          if !!item1.sub && item1.sub.length > 0
+            li
+              a(href=path+"/"+item1.title+".html") #{item1.title}
+                ul
+                  each item2 in item1.sub
+                    if !!item2.sub && item2.sub.length > 0
+                      li
+                        a(href=path+"/"+item2.title+".html") #{item2.title} 
+                          ul
+                            each item3 in item2.sub
+                              li
+                                a(href=path+"/"+item3.title+".html") #{item3.title}  
+                    else
+                      li
+                        a(href=path+"/"+item2.title+".html") #{item2.title}  
+          else  
+            li
+              a(href=path+"/"+item1.title+".html") #{item1.title}

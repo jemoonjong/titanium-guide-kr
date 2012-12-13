@@ -1,10 +1,10 @@
 {
-    "title": "타이타늄 가이드 3.0 한글판",
-    "description": "Titanium Guide 3.0 for Korean : 타이타늄 공식 가이드 한글 번역 프로젝트",
-    "index": [
+    'title': '타이타늄 가이드 3.0 한글판',
+    'description': 'Titanium Guide 3.0 for Korean : 타이타늄 공식 가이드 한글 번역 프로젝트',
+    'index': [
         {
-            "title" : "Quick_Start",
-            "editor": [miconblog]
+            'title' : 'Quick_Start',
+            'editor': ['miconblog']
         }        
     ]
 }
