@@ -22,11 +22,11 @@
 
 ### 도움주신 분들
 * 번역
- - [손병대][miconblog]
+ - [miconblog]
 
 
 * 빌드 
- - [손병대][miconblog]
+ - [miconblog]
 
 [miconblog]: https://github.com/miconblog
 
