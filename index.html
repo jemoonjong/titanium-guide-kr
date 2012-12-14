@@ -41,16 +41,27 @@
 <li>
 <a href="https://github.com/miconblog/titanium-guide-kr/wiki/%EB%B2%88%EC%97%AD-%ED%98%84%ED%99%A9%ED%8C%90">번역현황판</a>을 보고 아직 번역되지 않은 문서가 있는지 확인한다.</li>
 <li>
-<p><a href="https://github.com/miconblog/titanium-guide-kr/wiki/%EB%B2%88%EC%97%AD-%ED%98%84%ED%99%A9%ED%8C%90">번역현황판</a>에 자신이 번역할 문서를 찜한다.</p>
+<a href="https://github.com/miconblog/titanium-guide-kr/wiki/%EB%B2%88%EC%97%AD-%ED%98%84%ED%99%A9%ED%8C%90">번역현황판</a>에 자신이 번역할 문서를 찜한다.
 
 <ul>
 <li>단, 한번에 한 페이지만 번역한다.</li>
 <li>페이지의 기준은 depth와 상관없이 원본 문서의 최종 링크를 기준으로 한다. </li>
 </ul>
 </li>
-<li><p>저장소를 <strong>Fork</strong> 한다.</p></li>
-<li><p><a href="https://github.com/miconblog/titanium-guide-kr/wiki/%EB%B2%88%EC%97%AD-%ED%98%84%ED%99%A9%ED%8C%90">현황판</a>에 작성한 대로 <strong><em>doc/버전번호/guide/</em></strong> 폴더 하위에 문서 파일을 추가하고 번역을 시작한다. </p></li>
-<li><p>번역이 완료되면 Pull Request를 보낸다. </p></li>
+<li>저장소를 <strong>Fork</strong> 한다. 
+
+<ul>
+<li>Fork된 브랜치는 master와 gh-pages 두개의 브랜치가 있다. </li>
+<li>master는 최신 번역 전용 브랜치다. </li>
+<li>gh-pages는 깃허브에서 자동 빌드되는 브랜치로 깃허브에 호스팅할때만 사용한다.</li>
+</ul>
+</li>
+<li>Fork된 자신의 저장소에 작업할 브랜치를 만든다. (브랜치 이름은 <strong>work</strong>를 추천한다.) </li>
+<li>
+<a href="https://github.com/miconblog/titanium-guide-kr/wiki/%EB%B2%88%EC%97%AD-%ED%98%84%ED%99%A9%ED%8C%90">현황판</a>에 작성한 대로 <strong><em>doc/버전번호/guide/</em></strong> 폴더 하위에 문서 파일을 추가하고 <strong>work</strong>브랜치에서 번역을 시작한다. </li>
+<li>번역이 완료되면 <strong>work</strong> 브랜치를 Pull Request 보낸다.</li>
+<li>
+<strong>work</strong>브랜치가 <strong>master</strong> 브랜치로 머지되면 다시 Pull을 받아 새로운 <strong>work</strong> 브랜치를 리셋하고 작업을 다시 진행한다.</li>
 </ol><h3>원본</h3>
 
 <ul>
@@ -64,15 +75,13 @@
 </ul><h3>도움주신 분들</h3>
 
 <ul>
-<li>
-<p>번역</p>
+<li>번역
 
 <ul>
 <li><a href="https://github.com/miconblog">miconblog</a></li>
 </ul>
 </li>
-<li>
-<p>빌드 </p>
+<li>빌드 
 
 <ul>
 <li><a href="https://github.com/miconblog">miconblog</a></li>
